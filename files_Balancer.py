@@ -47,7 +47,7 @@ def recursefunct(inputdir):
                 logger("Wrong address !! continued at ", inputdir, "DEBUG")
         elif ".jpg" in dirctry:
             jpgdir_list.append(inputdir)
-            logger("Found JPG's here MARK this address!!!", inputdir, "DEBUG")
+            logger("Found JPG's here MARK this address!!!", inputdir, "INFO")
             return
 if __name__ == "__main__":
     

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+
 """
 Created on Sat Oct 26 11:31:17 2019
 
@@ -19,3 +20,4 @@ def tesseract_funct(filename):
 
 #Iterte over directories
 input("Input the parent path")
+
